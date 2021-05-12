@@ -15,7 +15,8 @@
   "license": "ISC",
   "dependencies": {
     "graphql": "^15.5.0",
-    "if-env": "^1.0.4"
+    "if-env": "^1.0.4",
+    "stripe": "^8.148.0"
   },
   "devDependencies": {
     "concurrently": "^5.1.0"
